@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Actividad 1</title>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.datatables.net/1.10.24/css/jquery.dataTables.css"
+    />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+    />
+  </head>
+  <h1>Actividad 1</h1>
+  <body>
+    <table id="example" class="display" style="width: 100%">
+      <thead>
+        <tr>
+          <th>Nombre</th>
+          <th>Edad</th>
+          <th>Direccion</th>
+          <th>Correo</th>
+          <th>Estatus</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Cinthia Merary Mata Martinez</td>
+          <td>20 años</td>
+          <td>Galeana</td>
+          <td>cinthia@gmail.com</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Diego Mendoza Vazquez</td>
+          <td>28 años</td>
+          <td>Galeana</td>
+          <td>diego@gmail.com</td>
+          <td>1</td>
+        </tr>
+        <!-- Add more rows as needed -->
+      </tbody>
+    </table>
+
+    <script>
+      $(document).ready(function () {
+        $("#example").DataTable();
+      });
+    </script>
+  </body>
+</html>
