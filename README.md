@@ -1,4 +1,5 @@
 # ProyectoPrimerParcial
+Este repositorio contiene los archivos de los ejercicios que se realizaron en el primer parcial, asi como las capturas de los resultados que se obtuvieron al realizar cada uno de estos.
 
 # Ejercicio 1
 ![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/e936d867-7311-400e-913a-cd67e1194914)
