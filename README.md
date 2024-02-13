@@ -8,12 +8,16 @@ En esta actividad se estuvo trabajando con html, al igual que con bootstrap, par
 ![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/432d9df1-74a3-442b-a6fa-54d545c5222f)
 ![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/84664ca1-1ad1-4863-a4fc-201a2a20e312)
 
-# Ejercicio 2
+Ejercicio 2 DataTable
+
+En este ejercicio se solicito realizar una tabla con el uso de la libreria DataTable, obteniendo como resultado una tabla con el encabezado y pie de pagina.
 ![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/42862b1f-a10c-4f40-adf9-838e324bb05d)
 ![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/8aeddfac-cb00-4fc3-83a3-97e2f7fed1ef)
 ![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/b46f6665-0590-4e1d-afcd-96fa50f2343e)
 
-# Ejercicio 3
+Ejercicio 3 SweetAlert
+
+Aqui se pidio que se realizará un SweetAlert
 ![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/2c4e90fe-810b-43b1-baec-03d62b0fb941)
 ![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/59402b6a-3d31-4a7f-bd0b-f6c07fa5d09f)
 ![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/818d57d4-a88a-432a-bad2-3f76187516bd)
