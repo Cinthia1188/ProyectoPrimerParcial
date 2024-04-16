@@ -1,6 +1,8 @@
-# ProyectoPrimerParcial
-Este repositorio contiene los archivos de los ejercicios que se realizaron en el primer parcial, asi como las capturas de los resultados que se obtuvieron al realizar cada uno de estos.
+![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/169cec5e-5e2b-4f79-9a47-a17e2d20508f)# Proyecto octavo cuatrimestre
+Este repositorio contiene los archivos de los ejercicios que se realizaron en el primer y segundo parcial, asi como las capturas de los resultados que se obtuvieron al realizar cada uno de estos.
 La finalidad de este repositorio es guardar las actividades que se realicen a lo largo de los parciales.
+
+#Proyecto Primer Parcial
 
 Ejercicio 1 Curriculum
 
@@ -66,6 +68,41 @@ En esta actividad se imprimio la información de los array a una tabla, obtenien
 ![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/d7c0111e-9492-45ed-b470-6dfc19939384)
 ![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/891c4da1-035b-4a17-b06c-1bc10f5f9b65)
 ![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/7180d504-460b-4039-bced-dce101131f80)
+
+#Proyecto Segundo Parcial 
+
+Ejercicio 1 Login 
+
+En esta actividad se realizo el login, el cual nos permite el acceso a los demas modulos que se estuvieron realizando.
+
+![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/26d24b93-3494-453f-bbbe-9d3efb4fd782)
+![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/3077983c-7649-458a-9394-199a30f1f60f)
+![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/c0502e84-3fb3-4b8c-81b2-9cef00c6749b)
+
+Ejercicio 2 Inicio
+
+Aqui se creó el inicio en el cual se puede mostrar el menu con los modulos que se realizaron como lo es el de Personas, Sucursales,Clientes, Perfiles y Cerrar Sesión.
+
+![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/640e2bdf-c23d-40ab-ac4b-1e517ffbbb85)
+![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/e5fefc43-bba1-484e-8de4-a6c446c50822)
+![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/acaf7f46-e114-4795-9a1c-05ac53464011)
+
+Ejercicio 3 Personas
+
+Este modulo cuenta con un apartado en el cual se pueden insertar nuevos registros y se muestren en la tabla el cual cuenta con los campos de Nombre, Ap.Paterno, Ap.Materno,Sexo, Curp y Fecha. Tambien se puede eliminar el registro y se pueden imprimir los datos, exportar en Excel o descargar en PDF.
+
+![Uploadi![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/75463f3f-69d2-4eeb-8ed1-da2deb813b64)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
