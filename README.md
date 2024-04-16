@@ -2,7 +2,7 @@
 Este repositorio contiene los archivos de los ejercicios que se realizaron en el primer y segundo parcial, asi como las capturas de los resultados que se obtuvieron al realizar cada uno de estos.
 La finalidad de este repositorio es guardar las actividades que se realicen a lo largo de los parciales.
 
-#Proyecto Primer Parcial
+Proyecto Primer Parcial
 
 Ejercicio 1 Curriculum
 
@@ -92,6 +92,9 @@ Ejercicio 3 Personas
 Este modulo cuenta con un apartado en el cual se pueden insertar nuevos registros y se muestren en la tabla el cual cuenta con los campos de Nombre, Ap.Paterno, Ap.Materno,Sexo, Curp y Fecha. Tambien se puede eliminar el registro y se pueden imprimir los datos, exportar en Excel o descargar en PDF.
 
 ![Uploadi![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/75463f3f-69d2-4eeb-8ed1-da2deb813b64)
+![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/9fea6d34-d6a5-4eb7-8e17-0c6c53270e1e)
+![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/186508b6-d9c8-427a-b2bc-52ea5adce32a)
+
 
 
 
