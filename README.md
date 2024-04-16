@@ -1,4 +1,4 @@
-![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/169cec5e-5e2b-4f79-9a47-a17e2d20508f)# Proyecto octavo cuatrimestre
+# Proyecto octavo cuatrimestre
 Este repositorio contiene los archivos de los ejercicios que se realizaron en el primer y segundo parcial, asi como las capturas de los resultados que se obtuvieron al realizar cada uno de estos.
 La finalidad de este repositorio es guardar las actividades que se realicen a lo largo de los parciales.
 
