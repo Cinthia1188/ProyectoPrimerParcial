@@ -2,7 +2,7 @@
 Este repositorio contiene los archivos de los ejercicios que se realizaron en el primer y segundo parcial, asi como las capturas de los resultados que se obtuvieron al realizar cada uno de estos.
 La finalidad de este repositorio es guardar las actividades que se realicen a lo largo de los parciales.
 
-Proyecto Primer Parcial
+# Proyecto Primer Parcial
 
 Ejercicio 1 Curriculum
 
@@ -69,7 +69,7 @@ En esta actividad se imprimio la información de los array a una tabla, obtenien
 ![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/891c4da1-035b-4a17-b06c-1bc10f5f9b65)
 ![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/7180d504-460b-4039-bced-dce101131f80)
 
-#Proyecto Segundo Parcial 
+# Proyecto Segundo Parcial 
 
 Ejercicio 1 Login 
 
@@ -94,6 +94,57 @@ Este modulo cuenta con un apartado en el cual se pueden insertar nuevos registro
 ![Uploadi![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/75463f3f-69d2-4eeb-8ed1-da2deb813b64)
 ![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/9fea6d34-d6a5-4eb7-8e17-0c6c53270e1e)
 ![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/186508b6-d9c8-427a-b2bc-52ea5adce32a)
+
+Ejercicio 4 Sucursales
+
+En este apartado se puede ingresar un nuevo registro al igual que se puede eliminar.
+
+![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/4c6cc3c3-c243-458d-bccc-ba99024affae)
+![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/02689e13-eb89-4abe-8525-897f54131a5c)
+![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/b93d0b7a-6bd9-4242-951f-5457b78aa830)
+
+
+Ejercicio 5 Clientes
+
+Este modulo cuenta con un boton donde se puede agregar un nuevo registro, asi como se pueden visualizar los datos desde una tabla y se puede descargar la informacion en PDF o exportar a Excel.
+
+
+![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/95eab6af-3036-45b8-9589-e2279547abff)
+![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/a9091a85-3a5c-41d3-b01a-9c0cde9534b9)
+![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/ac6a97ed-2aa6-450b-b10a-b2a5b33989c7)
+
+Ejercicio 6 Perfiles 
+
+En este modulo se puede agregar un nuevo registro al igual que se puede eliminar.
+
+![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/560e625a-bd84-429b-8e32-b933d45f403e)
+![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/306f52e4-4c14-4235-9832-31c424c04f56)
+![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/a215f4ab-91f9-4e39-88c6-3ab78530008e)
+
+Ejercicio 7 Cerrar Sesion 
+
+Se creo un apartado en el menu para cerrar la sesión y este mande al login nuevamente.
+
+![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/6dbe16df-9340-4f8e-99f1-203ae2ede697)
+![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/fc449837-e0f8-489e-98d0-06d9333452fb)
+![image](https://github.com/Cinthia1188/ProyectoPrimerParcial/assets/125915592/adaeec8c-ee24-44ca-a465-223e7ba73f44)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
